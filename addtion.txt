@@ -1,0 +1,4 @@
+﻿Build started...
+1>------ Build started: Project: addtion of number, Configuration: Debug Any CPU ------
+1>  addtion of number -> C:\Users\visha\source\repos\addtion of number\addtion of number\bin\Debug\addtion of number.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
